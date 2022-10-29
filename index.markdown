@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Portrait photo of Jonas Rieger](/assets/rieger_sq.jpg)
+![Portrait photo of Jonas Rieger](/assets/rieger_sq.jpg =250x250)
 
 NLP Scientist @ Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)\
 Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
