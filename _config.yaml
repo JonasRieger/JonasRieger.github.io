@@ -1,16 +1,20 @@
-theme: jekyll-theme-minimal
 title: Jonas Rieger
+author:
+  name: Jonas Rieger
+  email: rieger@statistik.tu-dortmund.de
 description: Personal webpage of Jonas Rieger
 
 theme: minima
-
-twitter_username: Rieger94
-github_username: JonasRieger
 
 show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
+  skin: dark
+  social_links:
+    twitter: Rieger94
+    github: JonasRieger
+    instagram: riegerjonas
 
 include:
     - _pages
