@@ -8,7 +8,9 @@ theme: minima
 
 minima:
   date_format: "%Y-%m-%d"
+minima:
   skin: dark
+minima:
   social_links:
     twitter: Rieger94
     github: JonasRieger
