@@ -16,3 +16,9 @@ minima:
 
 include:
     - _pages
+
+exclude: 
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    
