@@ -7,13 +7,13 @@ layout: home
 
 PIC
 
-NLP Scientist @ [Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)](url)
-Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](url)
+NLP Scientist @ Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)\
+Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
 
-Currently working in the BMBF project [FLACA](link) and the EU project [GADMO](link)
-Member of [DoCMA](link)
+Currently working in the BMBF project FLACA and the EU project [GADMO](https://www.journalistik-dortmund.de/news/vereint-gegen-desinformation-groesster-zusammenschluss-von-faktencheckern-und-wissenschaftlern-im-deutschsprachigen-raum-gestartet/)\
+Member of [DoCMA](https://docma.tu-dortmund.de/)
 
-Interested in
+Interested in\
 * updating topic models time-consistently
 * evaluation metrics for topic models
 * few-shot text classification
