@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Jonas Rieger
 description: Personal webpage of Jonas Rieger
+
+theme: minima
+
+twitter_username: Rieger94
+github_username: JonasRieger
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
