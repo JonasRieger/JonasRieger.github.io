@@ -19,7 +19,7 @@ Interested in
 * few-shot text classification
 * argument mining in news and social media discourses
 * characteristics of disinformation and its dissemination
-* narratives
+* narrative and event detection in text
 
 Some personal information
 ...
