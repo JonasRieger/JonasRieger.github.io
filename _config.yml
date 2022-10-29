@@ -6,7 +6,6 @@ description: Personal webpage of Jonas Rieger
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
 
 remote_theme: jekyll/minima
 
