@@ -5,7 +5,6 @@
 layout: home
 ---
 
-![Portrait photo of Jonas Rieger](/assets/rieger_sq.jpg)
 <img src="/assets/rieger_sq.jpg" alt="Portrait photo of Jonas Rieger" width="200"/>
 
 NLP Scientist @ Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)\
