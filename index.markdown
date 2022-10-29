@@ -13,7 +13,7 @@ Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business a
 Currently working in the BMBF project FLACA and the EU project [GADMO](https://www.journalistik-dortmund.de/news/vereint-gegen-desinformation-groesster-zusammenschluss-von-faktencheckern-und-wissenschaftlern-im-deutschsprachigen-raum-gestartet/)\
 Member of [DoCMA](https://docma.tu-dortmund.de/)
 
-Interested in\
+Interested in
 * updating topic models time-consistently
 * evaluation metrics for topic models
 * few-shot text classification
