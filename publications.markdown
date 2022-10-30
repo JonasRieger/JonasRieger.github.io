@@ -34,9 +34,9 @@ The inflation perception indicator
 * Müller, H., Rieger, J., Schmidt., T. and Hornig, N. (2022). Pressure is high - and rising. The Inflation Perception Indicator (IPI) to 30 April 2022 - a Research Note Analysis. DoCMA Working Paper #10. [DOI](https://doi.org/10.17877/DE290R-22769).
 * Müller, H., Schmidt., T., Rieger, J., Hufnagel, L.M. and Hornig, N. (2022). A German Inflation Narrative. How the Media frame Price Dynamics: Results from a RollingLDA Analysis. DoCMA Working Paper #9. [DOI](https://doi.org/10.17877/de290r-22632).
 * references
-    * Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
-    * Erinnert an 1970er Jahre - Frühwarnsystem für Inflation auf Rekordhoch. Handelsblatt (05/24/2022). [Link](https://www.handelsblatt.com/28369000.html).
-    * Der I-Index: Die neue Vermessung der Inflation. Handelsblatt (03/10/2022). [Link](https://www.handelsblatt.com/28146862.html).
+    * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
+    * Reminiscent of the 1970s - Early Warning System for Inflation at a Record High [Erinnert an 1970er Jahre - Frühwarnsystem für Inflation auf Rekordhoch]. Handelsblatt (05/24/2022). [Link](https://www.handelsblatt.com/28369000.html).
+    * The I-Index: The New Measurement of Inflation [Der I-Index: Die neue Vermessung der Inflation]. Handelsblatt (03/10/2022). [Link](https://www.handelsblatt.com/28146862.html).
 
 The uncertainty perception indicator
 * Müller, H., Rieger, J. and Hornig, N. (2022). Vladimir vs. the Virus - a Tale of two Shocks. An Update on our Uncertainty Perception Indicator (UPI) to April 2022 - a Research Note. DoCMA Working Paper #11. [DOI](http://dx.doi.org/10.17877/DE290R-22780). [GitHub](https://github.com/JonasRieger/upi).
