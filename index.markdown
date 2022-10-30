@@ -20,6 +20,3 @@ Interested in
 * argument mining in news and social media discourses
 * characteristics of disinformation and its dissemination
 * narratives
-
-Some personal information
-...
