@@ -31,11 +31,10 @@ Non-peer-reviewed publications
 
 The inflation perception indicator
 * Müller, H., Rieger, J., Schmidt, T. and Hornig, N. (2022). An Increasing Sense of Urgency: The Inflation Perception Indicator (IPI) to 30 June 2022 - a Research Note. DoCMA Working Paper #12. [DOI](http://doi.org/10.17877/DE290R-22875). [GitHub](https://github.com/JonasRieger/ipi).
+   * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
 * Müller, H., Rieger, J., Schmidt., T. and Hornig, N. (2022). Pressure is high - and rising. The Inflation Perception Indicator (IPI) to 30 April 2022 - a Research Note Analysis. DoCMA Working Paper #10. [DOI](https://doi.org/10.17877/DE290R-22769).
+   * Reminiscent of the 1970s - Early Warning System for Inflation at a Record High [Erinnert an 1970er Jahre - Frühwarnsystem für Inflation auf Rekordhoch]. Handelsblatt (05/24/2022). [Link](https://www.handelsblatt.com/28369000.html).
 * Müller, H., Schmidt., T., Rieger, J., Hufnagel, L.M. and Hornig, N. (2022). A German Inflation Narrative. How the Media frame Price Dynamics: Results from a RollingLDA Analysis. DoCMA Working Paper #9. [DOI](https://doi.org/10.17877/de290r-22632).
-* references
-    * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
-    * Reminiscent of the 1970s - Early Warning System for Inflation at a Record High [Erinnert an 1970er Jahre - Frühwarnsystem für Inflation auf Rekordhoch]. Handelsblatt (05/24/2022). [Link](https://www.handelsblatt.com/28369000.html).
     * The I-Index: The New Measurement of Inflation [Der I-Index: Die neue Vermessung der Inflation]. Handelsblatt (03/10/2022). [Link](https://www.handelsblatt.com/28146862.html).
 
 The uncertainty perception indicator
