@@ -4,8 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-[ORCiD](https://orcid.org/0000-0002-0007-4478)
-
 Peer-reviewed publications
 * Bittermann, A. and Rieger, J. (2022). Finding scientific topics in continuously growing text corpora. Proceedings of the 3rd Workshop on Scholarly Document Processing. [Link](https://aclanthology.org/2022.sdp-1.2). [GitHub](https://github.com/abitter/sdp22_supplements). [PsychTopics App](http://psychtopics.org/).
 * Lange, K.-R., Rieger, J., Benner, N. and Jentsch, C. (2022). Zeitenwenden: Detecting changes in the German political discourse. Proceedings of the 2nd Workshop on Computational Linguistics for Political Text Analysis. [Proceedings](https://old.gscl.org/media/pages/arbeitskreise/cpss/cpss-2022/workshop-proceedings-2022/254133848-1662750260/cpss-2022-proceedings.pdf). [GitHub](https://github.com/K-RLange/zeitenwenden).
