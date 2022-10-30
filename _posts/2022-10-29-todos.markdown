@@ -5,5 +5,5 @@ date:   2022-10-29 08:28:43 +0200
 categories: todo
 ---
 * CV file
-* Pubs page
 * [Researchgate](https://www.researchgate.net/profile/Jonas-Rieger) in footer einbauen
+* [ORCiD](https://orcid.org/0000-0002-0007-4478) in footer einbauen
