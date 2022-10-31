@@ -46,3 +46,6 @@ The uncertainty perception indicator
 Other publications
 * Bittermann, A., Müller, S. M., and Rieger, J. (2022). PsychTopics: How to keep track of the psychology research landscape [PsychTopics: Wie man den Überblick über die Forschungslandschaft der Psychologie behält]. Open Password. [Link](https://www.infobroker.de/password-online/archiv/willi-bredemeier-liest-das-buch-seines-lebens-the-story-of-civilisation-von-will-durant/).
 * Rieger, J. (2019). Mónica Bécue-Bertaut (2019): Textual Data Science with R. Statistical Papers 60, 1797-1798. [DOI](https://doi.org/10.1007/s00362-019-01126-7).
+
+Dissertation
+* Rieger, J. (2022). Reliability evaluation and an update algorithm for the latent Dirichlet allocation. Dissertation. TU Dortmund University. [DOI](https://doi.org/10.17877/DE290R-22949).
