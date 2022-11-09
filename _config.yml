@@ -14,11 +14,14 @@ minima:
   skin: dark
   social_links:
     twitter: Rieger94
+    mastodon:
+     - username: rieger
+       instance: ruhr.social
     github: JonasRieger
     instagram: riegerjonas
     orcid: 0000-0002-0007-4478
     researchgate: Jonas-Rieger
-
+    
 include:
     - _pages
 
