@@ -17,6 +17,7 @@ Interested in
 * updating topic models time-consistently
 * evaluation metrics for topic models
 * few-shot text classification
+* adapters for transformers in few-shot scenarios
 * argument mining in news and social media discourses
 * characteristics of disinformation and its dissemination
 * narrative and event detection in text
