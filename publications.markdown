@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
+* Rieger, J., Hornig, N., Schmidt, T., and Müller, H. (2023). Early Warning Systems? Building Time Consistent Perception Indicators for Economic Uncertainty and Inflation Using Efficient Dynamic Modeling. Accepted for [MUFin'23](https://sites.google.com/view/w-mufin).
 * Bittermann, A. and Rieger, J. (2022). Finding scientific topics in continuously growing text corpora. Proceedings of the 3rd Workshop on Scholarly Document Processing. [Link](https://aclanthology.org/2022.sdp-1.2). [GitHub](https://github.com/abitter/sdp22_supplements). [PsychTopics App](http://psychtopics.org/).
 * Lange, K.-R., Rieger, J., Benner, N. and Jentsch, C. (2022). Zeitenwenden: Detecting changes in the German political discourse. Proceedings of the 2nd Workshop on Computational Linguistics for Political Text Analysis. [Proceedings](https://old.gscl.org/media/pages/arbeitskreise/cpss/cpss-2022/workshop-proceedings-2022/254133848-1662750260/cpss-2022-proceedings.pdf). [GitHub](https://github.com/K-RLange/zeitenwenden).
 * Rieger, J., Lange, K.-R., Flossdorf, J. and Jentsch, C. (2022). Dynamic change detection in topics based on rolling LDAs. Proceedings of the Text2Story'22 Workshop. CEUR-WS 3117, 5-13. [Link](http://ceur-ws.org/Vol-3117/). [GitHub](https://github.com/JonasRieger/topicalchanges).
