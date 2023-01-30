@@ -24,7 +24,7 @@ Preprints
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2022). Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
 
 Working paper
-* Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [Link](https://www.rwi-essen.de/publikationen/wissenschaftlich/ruhr-economic-papers/detail/text-data-rule-dont-they).
+* Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](http://dx.doi.org/10.4419/96973128).
 
 Non-peer-reviewed publications
 * Jentsch, C., Mammen, E., Müller, H., Rieger, J. and Schötz, C. (2021). Text mining methods for measuring the coherence of party manifestos for the German federal elections from 1990 to 2021. DoCMA Working Paper #8.  [DOI](https://doi.org/10.17877/de290r-22363). [Spiegel Online](https://www.spiegel.de/politik/deutschland/koalitionen-nach-der-bundestagswahl-2021-wer-zusammen-passt-und-wer-nicht-a-8a439093-1921-4c60-9477-6f37ade43057).
