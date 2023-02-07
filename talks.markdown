@@ -8,7 +8,7 @@ Invited talks
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
 Contributions to conferences and workshops
-* Early Warning Systems? Building Time Consistent Perception Indicators for Economic Uncertainty and Inflation Using Efficient Dynamic Modeling. MUFin'23 Workshop @AAAI 2023. Washington, DC, USA (02/2023).
+* Early Warning Systems? Building Time Consistent Perception Indicators for Economic Uncertainty and Inflation Using Efficient Dynamic Modeling. MUFin'23 Workshop @AAAI 2023. Washington, DC, USA (02/2023). [Pre-recording](https://screencast-o-matic.com/u/UrRd/mufin).
 * Finding scientific topics in contionuously growing text corpora. SDP'22 Workshop @COLING 2022. Gyeongju, Republic of Korea (10/2022). [Pre-recording](https://screencast-o-matic.com/u/UrRd/sdp).
 * Monitoring consistent topics in continuously growing scientific text corpora. Statistische Woche 2022. Münster, Germany (09/2022).
 * Dynamic change detection in topics based on rolling LDAs. Text2Story'22 Workshop @ECIR 2022. Stavanger, Norway (04/2022). [Pre-recording](https://youtu.be/JT9_mayvnOw).
