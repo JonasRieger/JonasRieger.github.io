@@ -19,6 +19,7 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
+* Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. [In review](https://github.com/openjournals/joss-reviews/issues/5152).
 
 Preprints
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2022). Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
@@ -31,7 +32,8 @@ Non-peer-reviewed publications
 * Rieger, J. and von Nordheim, G. (2021). corona100d – German-language Twitter dataset of the first 100 days after Chancellor Merkel addressed the coronavirus outbreak on TV. DoCMA Working Paper #4. [DOI](http://dx.doi.org/10.17877/DE290R-21911). [GitHub](https://github.com/JonasRieger/corona100d).
 
 The inflation perception indicator
-* Müller, H., Rieger, J., Schmidt, T. and Hornig, N. (2022). An Increasing Sense of Urgency: The Inflation Perception Indicator (IPI) to 30 June 2022 - a Research Note. DoCMA Working Paper #12. [DOI](http://doi.org/10.17877/DE290R-22875). [GitHub](https://github.com/JonasRieger/ipi).
+* Müller, H., Schmidt, T., Rieger, J., Hornig, N. and Hufnagel, L.M. (2023). The Inflation Attention Cycle: Updating the Inflation Perception Indicator (IPI) up to February 2023 - a Research Note. DoCMA Working Paper #13. [DOI](http://doi.org/10.17877/DE290R-23141). [GitHub](https://github.com/JonasRieger/ipi).
+* Müller, H., Rieger, J., Schmidt, T. and Hornig, N. (2022). An Increasing Sense of Urgency: The Inflation Perception Indicator (IPI) to 30 June 2022 - a Research Note. DoCMA Working Paper #12. [DOI](http://doi.org/10.17877/DE290R-22875).
    * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
 * Müller, H., Rieger, J., Schmidt., T. and Hornig, N. (2022). Pressure is high - and rising. The Inflation Perception Indicator (IPI) to 30 April 2022 - a Research Note Analysis. DoCMA Working Paper #10. [DOI](https://doi.org/10.17877/DE290R-22769).
    * Reminiscent of the 1970s - Early Warning System for Inflation at a Record High [Erinnert an 1970er Jahre - Frühwarnsystem für Inflation auf Rekordhoch]. Handelsblatt (05/24/2022). [Link](https://www.handelsblatt.com/28369000.html).

@@ -10,7 +10,7 @@ layout: home
 NLP Scientist @ [Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)](https://leibniz-hbi.de/en/staff/jonas-rieger)\
 Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
 
-Currently working in the BMBF project [FLACA](https://twitter.com/kkvk7/status/1586094068513198081) and the EU project [GADMO](https://digital-strategy.ec.europa.eu/en/news/hubs-european-digital-media-observatory-now-extend-whole-eu27)\
+Currently working in the BMBF project [FLACA](https://twitter.com/kkvk7/status/1586094068513198081) and the EU project [GADMO](https://gadmo.eu/)\
 Member of [DoCMA](https://docma.tu-dortmund.de/)
 
 Interested in
