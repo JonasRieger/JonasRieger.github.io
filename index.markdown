@@ -10,7 +10,7 @@ layout: home
 NLP Scientist @ [Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)](https://leibniz-hbi.de/en/staff/jonas-rieger)\
 Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
 
-Currently working in the BMBF project [FLACA](https://twitter.com/kkvk7/status/1586094068513198081) and the EU project [GADMO](https://gadmo.eu/)\
+Currently working in the BMBF project [FLACA](https://www.wiso.uni-hamburg.de/flaca) and the EU project [GADMO](https://gadmo.eu/)\
 Member of [DoCMA](https://docma.tu-dortmund.de/)
 
 Interested in
@@ -21,3 +21,4 @@ Interested in
 * argument mining in news and social media discourses
 * characteristics of disinformation and its dissemination
 * narrative and event detection in text
+* 
