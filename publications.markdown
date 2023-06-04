@@ -19,7 +19,7 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
-* Rieger, J., Hornig, N., Flossdorf, J., Müller, H., Mündges, S., Jentsch, C., Rahnenführer, J. & Elmer, C.: Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. [Link](https://github.com/GADMO-EU/DiTox2023/blob/master/paper_submission.pdf).
+* Rieger, J., Hornig, N., Flossdorf, J., Müller, H., Mündges, S., Jentsch, C., Rahnenführer, J. and Elmer, C.: Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. [Link](https://github.com/GADMO-EU/DiTox2023/blob/master/paper_submission.pdf).
 * Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. [In review](https://github.com/openjournals/joss-reviews/issues/5152).
 
 Preprints
