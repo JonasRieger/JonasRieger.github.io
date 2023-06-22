@@ -8,8 +8,9 @@ Invited talks
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
 Contributions to conferences and workshops
-* Scrutinizing ChatGPT against Few-Shot Learning with Adapter Extensions and XLM-RoBERTa: A Case Study on Identifying Claims, Arguments and their Stance in the German News Media Debate on Arms Deliveries to Ukraine. Statistische Woche 2023. Dortmund, Germany (09/2023).
+* Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. DiTox'23 Workshop @LDK 2023. Vienna, Austria (09/2023).
 * Bekämpfung von Desinformation durch GADMO: Analyse eines umfassenden deutschsprachigen Faktencheck-Korpus mithilfe von Topic Modellen. Statistische Woche 2023. Dortmund, Germany (09/2023).
+* Scrutinizing ChatGPT against Few-Shot Learning with Adapter Extensions and XLM-RoBERTa: A Case Study on Identifying Claims, Arguments and their Stance in the German News Media Debate on Arms Deliveries to Ukraine. Statistische Woche 2023. Dortmund, Germany (09/2023).
 * Beyond "Master Frames": A Semi-automated Approach to Studying Viewpoint Diversity of the Media Discourse. ECREA PolComm 2023. Berlin, Germany (08/2023).
 * Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. DGPuK 2023. Bremen, Germany (05/2023).
 * Early Warning Systems? Building Time Consistent Perception Indicators for Economic Uncertainty and Inflation Using Efficient Dynamic Modeling. MUFin'23 Workshop @AAAI 2023. Washington, DC, USA (02/2023). [Pre-recording](https://screencast-o-matic.com/u/UrRd/mufin).
