@@ -22,6 +22,7 @@ minima:
     orcid: 0000-0002-0007-4478
     researchgate: Jonas-Rieger
     huggingface: riegerjonas
+    scholar: _p8W2QIAAAAJ
     
 include:
     - _pages
