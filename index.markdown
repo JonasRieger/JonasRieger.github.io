@@ -10,8 +10,12 @@ layout: home
 NLP Scientist @ [Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)](https://leibniz-hbi.de/en/staff/jonas-rieger)\
 Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
 
-Currently working in the BMBF project [FLACA](https://www.wiso.uni-hamburg.de/flaca) and the EU project [GADMO](https://gadmo.eu/)\
-Member of [DoCMA](https://docma.tu-dortmund.de/)
+Current projects
+* [FLACA](https://www.wiso.uni-hamburg.de/flaca) (BMBF)
+* [GADMO](https://gadmo.eu/) (EU)
+* [NEAR](https://mercur-research.de/projekte/default-965d0286c32926baad7590bc6832af18/default-04727dd8b792300a077374ed57e38762) (MERCUR)
+* [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)
+* Member of [DoCMA](https://docma.tu-dortmund.de/)
 
 Interested in
 * updating topic models time-consistently
