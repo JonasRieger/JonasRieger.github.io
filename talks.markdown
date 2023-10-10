@@ -8,7 +8,7 @@ Invited talks
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
 Contributions to conferences and workshops
-* Few-shot learning for automated content analysis (FLACA) in the German media debate on arms deliveries to Ukraine. Digital Total. Hamburg, Germany (10/2023).
+* Few-shot learning for automated content analysis (FLACA) in the German media debate on arms deliveries to Ukraine. Digital Total. Hamburg, Germany (10/2023). [Poster](https://jonasrieger.github.io/assets/poster_flaca.pdf).
 * Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. DiTox'23 Workshop @LDK 2023. Vienna, Austria (09/2023).
 * Bekämpfung von Desinformation durch GADMO: Analyse eines umfassenden deutschsprachigen Faktencheck-Korpus mithilfe von Topic Modellen. Statistische Woche 2023. Dortmund, Germany (09/2023).
 * Scrutinizing ChatGPT against Few-Shot Learning with Adapter Extensions and XLM-RoBERTa: A Case Study on Identifying Claims, Arguments and their Stance in the German News Media Debate on Arms Deliveries to Ukraine. Statistische Woche 2023. Dortmund, Germany (09/2023).
