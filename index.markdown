@@ -11,6 +11,7 @@ Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business a
 
 Current projects
 * [NEAR](https://mercur-research.de/projekte/default-965d0286c32926baad7590bc6832af18/default-04727dd8b792300a077374ed57e38762) (MERCUR)
+* Trustworthy Performance Evaluation of Large Language Models (RC Trust)
 * [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)
 * Member of [DoCMA](https://docma.tu-dortmund.de/)
 
