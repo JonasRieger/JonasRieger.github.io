@@ -7,7 +7,7 @@ layout: home
 
 <img src="/assets/rieger_sq.jpg" alt="Portrait photo of Jonas Rieger" width="200"/>
 
-Postdoc @ [TU Dortmund University, Department of Statistics, Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/)
+Postdoc @ TU Dortmund University, Department of Statistics, [Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/) and Chair of Mathematical Sta­tis­tics and Applications in Science
 
 Current projects
 * [NEAR](https://mercur-research.de/projekte/default-965d0286c32926baad7590bc6832af18/default-04727dd8b792300a077374ed57e38762) (MERCUR)
