@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Rieger, J., Yanchenko, K., Ruckdeschel, M., von Nordheim, G., Kleinen-von Königslöw, K. and Wiedemann, G. (2023, forthcoming). Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. Accepted for Studies in Communication and Media.
+* Rieger, J., Yanchenko, K., Ruckdeschel, M., von Nordheim, G., Kleinen-von Königslöw, K. and Wiedemann, G. (2024, forthcoming). Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. Accepted for Studies in Communication and Media.
 * Krause, C., Rieger, J., Flossdorf, J., Jentsch, C. and Beck, F. (2023). Visually Analyzing Topic Change Points in Temporal Text Collections. Vision, Modeling, and Visualization. [DOI](https://doi.org/10.2312/vmv.20231231).
 * Rieger, J., Hornig, N., Flossdorf, J., Müller, H., Mündges, S., Jentsch, C., Rahnenführer, J. and Elmer, C. (2023). Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. Proceedings of the 4th Conference on Language, Data and Knowledge. [Link](https://aclanthology.org/2023.ldk-1.56). [GitHub](https://github.com/GADMO-EU/DiTox2023).
 * Rieger, J., Hornig, N., Schmidt, T. and Müller, H. (2023). Early Warning Systems? Building Time Consistent Perception Indicators for Economic Uncertainty and Inflation Using Efficient Dynamic Modeling. Proceedings of the 3rd Workshop on Modelling Uncertainty in the Financial World. [Link](https://github.com/JonasRieger/mufin23/blob/master/paper.pdf). [GitHub](https://github.com/JonasRieger/mufin23).
@@ -28,7 +28,7 @@ Preprints
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2022). Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
 
 Working paper
-* Schmidt, T., Müller, H., Rieger, J., Schmidt, T. and Jentsch, C. (2023). Inflation Perception and the Formation of Inflation Expectations. Ruhr Economic Papers #1025. DOI TBA.
+* Schmidt, T., Müller, H., Rieger, J., Schmidt, T. and Jentsch, C. (2023). Inflation Perception and the Formation of Inflation Expectations. Ruhr Economic Papers #1025. [DOI](https://doi.org/10.4419/96973191).
 * Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](https://doi.org/10.4419/96973128).
 
 Non-peer-reviewed publications
