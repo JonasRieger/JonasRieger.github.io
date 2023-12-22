@@ -10,14 +10,14 @@ layout: home
 Postdoc @ TU Dortmund University, Department of Statistics, [Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/) and Chair of Mathematical Sta­tis­tics and Applications in Science
 
 Current projects
-* [NEAR](https://mercur-research.de/projekte/default-965d0286c32926baad7590bc6832af18/default-04727dd8b792300a077374ed57e38762) (MERCUR)
+* [NEAR](https://narrative-economics.org/) (MERCUR)
 * Trustworthy Performance Evaluation of Large Language Models (RC Trust)
 * [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)
 * Member of [DoCMA](https://docma.tu-dortmund.de/)
 
 Contributing to
-* [FLACA](https://www.wiso.uni-hamburg.de/flaca) (BMBF)
 * [GADMO](https://gadmo.eu/) (EU)
+* [FLACA](https://www.wiso.uni-hamburg.de/flaca) (BMBF)
 
 Interested in
 * updating topic models time-consistently
