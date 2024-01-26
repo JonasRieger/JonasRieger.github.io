@@ -8,6 +8,7 @@ Invited talks
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
 Contributions to conferences and workshops
+* Exploring the potential of large language models (such as GPT-4) for (semi-)automatic content analysis of stances and frames in media texts. Erfurt, Germany (03/2024). [Abstract](https://www.conftool.pro/dgpuk2024/index.php/Rieger-Exploring_the_potential_of_large_language_models-293.pdf?page=downloadPaper&filename=Rieger-Exploring_the_potential_of_large_language_models-293.pdf&form_id=293).
 * Few-shot learning for automated content analysis (FLACA) in the German media debate on arms deliveries to Ukraine. Digital Total. Hamburg, Germany (10/2023). [Poster](https://jonasrieger.github.io/assets/poster_flaca.pdf).
 * Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. DiTox'23 Workshop @LDK 2023. Vienna, Austria (09/2023).
 * Bekämpfung von Desinformation durch GADMO: Analyse eines umfassenden deutschsprachigen Faktencheck-Korpus mithilfe von Topic Modellen. Statistische Woche 2023. Dortmund, Germany (09/2023).
