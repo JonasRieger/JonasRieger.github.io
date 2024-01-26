@@ -22,7 +22,7 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
-* Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. [In review](https://github.com/openjournals/joss-reviews/issues/5386).
+* Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. [In review](https://github.com/openjournals/joss-reviews/issues/5386). [arXiv](https://arxiv.org/abs/2401.14239).
 
 Preprints
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2022). Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
