@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 Invited talks
+* TBA. CompStat 2024. Gießen, Germany (08/2024).
 * Bekämpfung von Desinformation und Fake-News durch GADMO. BDI/BDA-Arbeitskreis Statistik. Düsseldorf, Germany (05/2024).
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
