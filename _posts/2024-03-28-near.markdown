@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Call for papers for NEAR Conference on Narrative Economics"
+date:   2024-03-28
+---
+
+The call for papers is out for our NEAR Conference on Narrative Economics 2024.
+
+We invite submissions for contributed talks as (extended) abstracts or full papers. Submission can be made until April 16th and the conference will take place on May 23/24 in Bochum (no conference fee).
+
+Please check the [NEAR website](https://narrative-economics.org/#news) for further information.
