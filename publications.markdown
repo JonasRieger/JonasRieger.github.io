@@ -4,7 +4,10 @@ title: Publications
 permalink: /pubs/
 ---
 
+https://doi.org/10.21105/joss.05386
+
 Peer-reviewed publications
+* Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. Journal of Open Source Software, 9(97), 5386. [DOI](https://doi.org/10.21105/joss.05386).
 * Rieger, J., Yanchenko, K., Ruckdeschel, M., von Nordheim, G., Kleinen-von Königslöw, K. and Wiedemann, G. (2024). Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. Studies in Communication and Media 13, 72-100. [DOI](https://doi.org/10.5771/2192-4007-2024-1-72).
 * Krause, C., Rieger, J., Flossdorf, J., Jentsch, C. and Beck, F. (2023). Visually Analyzing Topic Change Points in Temporal Text Collections. Vision, Modeling, and Visualization. [DOI](https://doi.org/10.2312/vmv.20231231).
 * Rieger, J., Hornig, N., Flossdorf, J., Müller, H., Mündges, S., Jentsch, C., Rahnenführer, J. and Elmer, C. (2023). Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. Proceedings of the 4th Conference on Language, Data and Knowledge. [Link](https://aclanthology.org/2023.ldk-1.56). [GitHub](https://github.com/GADMO-EU/DiTox2023).
@@ -22,9 +25,6 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
-* Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. [In review](https://github.com/openjournals/joss-reviews/issues/5386). [arXiv](https://arxiv.org/abs/2401.14239).
-
-Preprints
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2022). Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
 
 Working paper
