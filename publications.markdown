@@ -4,8 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-https://doi.org/10.21105/joss.05386
-
 Peer-reviewed publications
 * Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C.: spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. Journal of Open Source Software, 9(97), 5386. [DOI](https://doi.org/10.21105/joss.05386).
 * Rieger, J., Yanchenko, K., Ruckdeschel, M., von Nordheim, G., Kleinen-von Königslöw, K. and Wiedemann, G. (2024). Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. Studies in Communication and Media 13, 72-100. [DOI](https://doi.org/10.5771/2192-4007-2024-1-72).
