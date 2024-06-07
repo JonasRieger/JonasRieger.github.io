@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Funding by DFG for new Collaborative Research Center/Transregio 391"
+date:   2024-06-07
+---
+
+TU Dortmund University and Ruhr University Bochum (RUB) have been granted our new Collaborative Research Center/Transregio "Spatio-temporal Statistics for the Transition of Energy and Transport". Please have a look at the [press release](https://www.tu-dortmund.de/en/detail/tu-dortmund-university-and-ruhr-university-bochum-secure-new-transregio-42523/) of TU Dortmund University for more information.
