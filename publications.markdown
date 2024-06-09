@@ -22,6 +22,7 @@ Peer-reviewed publications
 * von Nordheim, G. and Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. Publizistik 65, 403-424. [DOI](https://doi.org/10.1007/s11616-020-00591-7). [GitHub](https://github.com/JonasRieger/zerrspiegel). [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Recent submissions
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of Quality: How AI can help to improve Science Communication.
 * What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data.
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
 * Lange, K.-R., Rieger, J. and Jentsch, C.: Lex2Sent: A bagging approach to unsupervised sentiment analysis. arXiv. [DOI](https://doi.org/10.48550/arXiv.2209.13023).
