@@ -24,7 +24,7 @@ Peer-reviewed publications
 
 Recent submissions
 * Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of Quality: How AI can help to improve Science Communication.
-* What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data.
+* Loschke C., Braungardt, S., Rieger, J.: What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1).
 * Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
 
 Working paper
