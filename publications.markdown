@@ -23,9 +23,10 @@ Peer-reviewed publications
 * von Nordheim, G. and Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. Publizistik 65, 403-424. [DOI](https://doi.org/10.1007/s11616-020-00591-7). [GitHub](https://github.com/JonasRieger/zerrspiegel). [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Recent submissions
+* Rieger, J., Ruckdeschel, M., Wiedemann, G.: PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6).
 * Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of Quality: How AI can help to improve Science Communication.
 * Loschke C., Braungardt, S., Rieger, J.: What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1).
-* Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A Model Selection Algorithm to Improve Reliability of Latent Dirichlet Allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
+* Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. [DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
 
 Working paper
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T. and Jentsch, C. (2023). Inflation Perception and the Formation of Inflation Expectations. Ruhr Economic Papers #1025. [DOI](https://doi.org/10.4419/96973191).
