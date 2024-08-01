@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "UPI and IPI indicators updated"
+date:   2024-08-01
+---
+
+The values of the uncertainty perception indicator [UPI](https://github.com/JonasRieger/upi) and the inflation perception indicator [IPI](https://github.com/JonasRieger/ipi) are updated with the July 2024 newspaper articles as of today.
