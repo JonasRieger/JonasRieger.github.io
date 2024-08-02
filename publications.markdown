@@ -5,8 +5,8 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Rieger, J., Jentsch, C. and Rahnenführer, J.: LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. Accepted for PeerJ Computer Science. [Preprint DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
-* Lange, K.-R., Rieger, J. and Jentsch, C. (2024) Lex2Sent: A bagging approach to unsupervised sentiment analysis. Accepted for [KONVENS 2024](https://konvens-2024.univie.ac.at/). [arXiv](https://doi.org/10.48550/arXiv.2209.13023).
+* Rieger, J., Jentsch, C. and Rahnenführer, J. (2024). LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. Accepted for PeerJ Computer Science. [Preprint DOI](https://doi.org/10.21203/rs.3.rs-1486359/v1).
+* Lange, K.-R., Rieger, J. and Jentsch, C. (2024). Lex2Sent: A bagging approach to unsupervised sentiment analysis. Accepted for [KONVENS 2024](https://konvens-2024.univie.ac.at/). [arXiv](https://doi.org/10.48550/arXiv.2209.13023).
 * Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C. (2024). spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. Journal of Open Source Software 9(97), 5386. [DOI](https://doi.org/10.21105/joss.05386).
 * Rieger, J., Yanchenko, K., Ruckdeschel, M., von Nordheim, G., Kleinen-von Königslöw, K. and Wiedemann, G. (2024). Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine. Studies in Communication and Media 13, 72-100. [DOI](https://doi.org/10.5771/2192-4007-2024-1-72).
 * Krause, C., Rieger, J., Flossdorf, J., Jentsch, C. and Beck, F. (2023). Visually Analyzing Topic Change Points in Temporal Text Collections. Vision, Modeling, and Visualization. [DOI](https://doi.org/10.2312/vmv.20231231).
