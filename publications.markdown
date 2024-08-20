@@ -26,9 +26,9 @@ Peer-reviewed publications
 Recent submissions
 * Rieger, J., Ruckdeschel, M., Wiedemann, G.: PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6).
 * Loschke C., Braungardt, S., Rieger, J.: What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1).
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of quality: How AI can help to improve science communication.
 
 Working paper
-* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of Quality: How AI can help to improve Science Communication.
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T. and Jentsch, C. (2023). Inflation Perception and the Formation of Inflation Expectations. Ruhr Economic Papers #1025. [DOI](https://doi.org/10.4419/96973191).
 * Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](https://doi.org/10.4419/96973128).
 
