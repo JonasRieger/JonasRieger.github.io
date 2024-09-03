@@ -10,6 +10,7 @@ layout: home
 Postdoc @ TU Dortmund University, Department of Statistics, [Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/) and Chair of Mathematical Sta­tis­tics and Applications in Science
 
 Current projects
+* [Diskurs Energiewende](https://jonasrieger.github.io/2024/09/03/bmwk.html) (BMWK)
 * [NEAR](https://narrative-economics.org/) (MERCUR)
 * Trustworthy Performance Evaluation of Large Language Models (RC Trust)
 * [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)

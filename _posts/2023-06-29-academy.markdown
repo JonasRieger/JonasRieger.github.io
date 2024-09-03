@@ -4,4 +4,4 @@ title:  "Funding by TU Dortmund Young Academy"
 date:   2023-06-29
 ---
 
-I received a grant of 5.000€ from the TU Dortmund Young Academy for my research project titled "The Era of ChatGPT: Evaluation and Regulation of Large Language Models". See also the [news](https://lwus.statistik.tu-dortmund.de/en/details/dr-jonas-rieger-receives-funding-from-the-tu-dortmund-young-academy-32796/) at the chair.
+I received a grant of 5000€ from the TU Dortmund Young Academy for my research project titled "The Era of ChatGPT: Evaluation and Regulation of Large Language Models". See also the [news](https://lwus.statistik.tu-dortmund.de/en/details/dr-jonas-rieger-receives-funding-from-the-tu-dortmund-young-academy-32796/) at the chair.
