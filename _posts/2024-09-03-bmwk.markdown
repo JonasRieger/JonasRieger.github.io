@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Funding by BMWK for joint project "Social (in)justice in the energy transition - from the digital debate to the living world"
+title:  "Funding by BMWK for joint project 'Social (in)justice in the energy transition - from the digital debate to the living world'"
 date:   2024-09-03
 ---
 
