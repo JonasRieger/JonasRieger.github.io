@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
+* Loschke C., Braungardt, S., Rieger, J. (2024). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Conditionally accepted for Energy Efficiency. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1). 
 * Rieger, J., Jentsch, C. and Rahnenführer, J. (2024). LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. PeerJ Computer Science 10.2279. [DOI](https://doi.org/10.7717/peerj-cs.2279).
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2024). Lex2Sent: A bagging approach to unsupervised sentiment analysis. Proceedings of the 20th KONVENS Conference, 281–291. [Link](https://aclanthology.org/2024.konvens-main.28/).
 * Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C. (2024). spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. Journal of Open Source Software 9(97), 5386. [DOI](https://doi.org/10.21105/joss.05386).
@@ -25,8 +26,8 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Ruckdeschel, M., Wiedemann, G.: PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6).
-* Loschke C., Braungardt, S., Rieger, J.: What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1).
 * Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of quality: How AI can help to improve science communication.
+* Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks.
 
 Working paper
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T. and Jentsch, C. (2023). Inflation Perception and the Formation of Inflation Expectations. Ruhr Economic Papers #1025. [DOI](https://doi.org/10.4419/96973191).
