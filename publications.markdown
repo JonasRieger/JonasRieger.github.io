@@ -26,7 +26,7 @@ Peer-reviewed publications
 
 Recent submissions
 * Rieger, J., Ruckdeschel, M., Wiedemann, G.: PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6).
-* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Questions of quality: How AI can help to improve science communication.
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Beyond fact-checking: Harnessing AI for news quality assessment.
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks.
 
 Working paper
