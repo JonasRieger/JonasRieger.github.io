@@ -7,7 +7,7 @@ layout: home
 
 <img src="/assets/rieger_sq.jpg" alt="Portrait photo of Jonas Rieger" width="200"/>
 
-[Scientific Manager of TRR 391](https://trr391.tu-dortmund.de/bodies/office/) and Postdoc @ TU Dortmund University, Department of Statistics
+[Scientific Manager of TRR 391](https://trr391.tu-dortmund.de/bodies/office/) and Postdoc @ TU Dortmund University, Department of Statistics\
 [Chair of Business and Social Statistics](https://lwus.statistik.tu-dortmund.de/en/chair/team/rieger/) and Chair of Mathematical Sta­tis­tics and Applications in Science
 
 Current projects
