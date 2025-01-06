@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Loschke C., Braungardt, S., Rieger, J. (2024). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Conditionally accepted for Energy Efficiency. [DOI](https://doi.org/10.21203/rs.3.rs-4544117/v1). 
+* Loschke C., Braungardt, S., Rieger, J. (2025). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Energy Efficiency 18(4). [DOI](https://doi.org/10.1007/s12053-024-10283-0). 
 * Rieger, J., Jentsch, C. and Rahnenführer, J. (2024). LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. PeerJ Computer Science 10.2279. [DOI](https://doi.org/10.7717/peerj-cs.2279).
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2024). Lex2Sent: A bagging approach to unsupervised sentiment analysis. Proceedings of the 20th KONVENS Conference, 281–291. [Link](https://aclanthology.org/2024.konvens-main.28/).
 * Faymonville, M., Riffo, J., Rieger, J. and Jentsch, C. (2024). spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models. Journal of Open Source Software 9(97), 5386. [DOI](https://doi.org/10.21105/joss.05386).
