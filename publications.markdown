@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
+* Müller, H., Blagov, B., Schmidt, T., Rieger, J., Jentsch, C. (2025). The macroeconomic impact of asymmetric uncertainty shocks. Accepted for The Journal of Economic Asymmetries.
 * Loschke C., Braungardt, S., Rieger, J. (2025). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Energy Efficiency 18(4). [DOI](https://doi.org/10.1007/s12053-024-10283-0). 
 * Rieger, J., Jentsch, C. and Rahnenführer, J. (2024). LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. PeerJ Computer Science 10.2279. [DOI](https://doi.org/10.7717/peerj-cs.2279).
 * Lange, K.-R., Rieger, J. and Jentsch, C. (2024). Lex2Sent: A bagging approach to unsupervised sentiment analysis. Proceedings of the 20th KONVENS Conference, 281–291. [Link](https://aclanthology.org/2024.konvens-main.28/).
