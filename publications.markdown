@@ -5,7 +5,8 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Rieger, J., Grönberg, L., Loschke, C., Braungardt, S. (2025) Monitoring narratives about the energy transition in Germany: Social (in)justice in the energy transition - from the digital debate to the living world. Proceedings of the Text2Story'25 Workshop. CEUR-WS 3964, 201-214. [Link](https://ceur-ws.org/Vol-3964/). [GitHub](https://github.com/LarsG321/Dissemination-Monitoring-narratives-about-the-energy-transition-in-Germany).
+* Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Accepted for KONVENS 2025. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6). [arXiv](https://doi.org/10.48550/arXiv.2412.04975).
+* Rieger, J., Grönberg, L., Loschke, C., Braungardt, S. (2025). Monitoring narratives about the energy transition in Germany: Social (in)justice in the energy transition - from the digital debate to the living world. Proceedings of the Text2Story'25 Workshop. CEUR-WS 3964, 201-214. [Link](https://ceur-ws.org/Vol-3964/). [GitHub](https://github.com/LarsG321/Dissemination-Monitoring-narratives-about-the-energy-transition-in-Germany).
 * Müller, H., Blagov, B., Schmidt, T., Rieger, J., Jentsch, C. (2025). The macroeconomic impact of asymmetric uncertainty shocks. The Journal of Economic Asymmetries 31(e00410). [DOI](https://doi.org/10.1016/j.jeca.2025.e00410).
 * Loschke C., Braungardt, S., Rieger, J. (2025). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Energy Efficiency 18(4). [DOI](https://doi.org/10.1007/s12053-024-10283-0). 
 * Rieger, J., Jentsch, C. and Rahnenführer, J. (2024). LDAPrototype: A model selection algorithm to improve reliability of latent Dirichlet allocation. PeerJ Computer Science 10.2279. [DOI](https://doi.org/10.7717/peerj-cs.2279).
@@ -27,7 +28,6 @@ Peer-reviewed publications
 * von Nordheim, G. and Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. Publizistik 65, 403-424. [DOI](https://doi.org/10.1007/s11616-020-00591-7). [GitHub](https://github.com/JonasRieger/zerrspiegel). [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Recent submissions
-* Rieger, J., Ruckdeschel, M., Wiedemann, G.: PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6). [arXiv](https://doi.org/10.48550/arXiv.2412.04975).
 * Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Beyond fact-checking: Harnessing AI for news quality assessment.
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks.
 
