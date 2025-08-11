@@ -28,7 +28,7 @@ Peer-reviewed publications
 * von Nordheim, G. and Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. Publizistik 65, 403-424. [DOI](https://doi.org/10.1007/s11616-020-00591-7). [GitHub](https://github.com/JonasRieger/zerrspiegel). [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Recent submissions
-* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Beyond Fact-Checking: AI-Supported Quality Assessment in Journalism. [Beyond Fact-Checking: KI-gestützte Qualitätsbewertung im Journalismus].
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Beyond Fact-Checking: AI-Supported Quality Assessment in Journalism [Beyond Fact-Checking: KI-gestützte Qualitätsbewertung im Journalismus].
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks. [Working Paper](https://doi.org/10.4419/96973191).
 
 Working paper
