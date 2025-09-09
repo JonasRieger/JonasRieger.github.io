@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Accepted for KONVENS 2025. [OpenReview](https://openreview.net/forum?id=Dq8VpnQ4M6). [arXiv](https://doi.org/10.48550/arXiv.2412.04975).
+* Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Accepted for KONVENS 2025 (ACL Anthology Link will follow). Working paper at [arXiv](https://doi.org/10.48550/arXiv.2412.04975). [GitHub](https://github.com/JonasRieger/petapter).
 * Rieger, J., Grönberg, L., Loschke, C., Braungardt, S. (2025). Monitoring narratives about the energy transition in Germany: Social (in)justice in the energy transition - from the digital debate to the living world. Proceedings of the Text2Story'25 Workshop. CEUR-WS 3964, 201-214. [Link](https://ceur-ws.org/Vol-3964/). [GitHub](https://github.com/LarsG321/Dissemination-Monitoring-narratives-about-the-energy-transition-in-Germany).
 * Müller, H., Blagov, B., Schmidt, T., Rieger, J., Jentsch, C. (2025). The macroeconomic impact of asymmetric uncertainty shocks. The Journal of Economic Asymmetries 31(e00410). [DOI](https://doi.org/10.1016/j.jeca.2025.e00410).
 * Loschke C., Braungardt, S., Rieger, J. (2025). What motivates and demotivates energy savings in times of crisis? - An argument mining analysis using X/Twitter data. Energy Efficiency 18(4). [DOI](https://doi.org/10.1007/s12053-024-10283-0). 
