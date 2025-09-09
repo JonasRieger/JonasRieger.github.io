@@ -4,6 +4,9 @@ title: Software
 permalink: /software/
 ---
 
+Python modules
+* petapter ([[github](https://github.com/JonasRieger/petapter)])
+
 R packages
 * topiclabels ([[cran](https://doi.org/10.32614/CRAN.package.topiclabels)][[github](https://github.com/PetersFritz/topiclabels)])
 * rollinglda ([[cran](https://doi.org/10.32614/CRAN.package.rollinglda)][[github](https://github.com/JonasRieger/rollinglda)])
