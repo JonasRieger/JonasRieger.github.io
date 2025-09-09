@@ -13,6 +13,7 @@ Invited talks
 
 Contributions to conferences and workshops
 * PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. KONVENS 2025. Hildesheim, Germany (09/2025). [Poster](https://jonasrieger.github.io/assets/poster_petapter.pdf).
+* Classifying the needle in the haystack? Problemstellungen beim Einsatz von Argument-Mining für kommunikationswissenschaftliche Fragestellungen am Beispiel der Waffenlieferungsdebatte. DigiKomm & Methoden 2024, Hamburg, Germany (09/2024).
 * Exploring the potential of large language models (such as GPT-4) for (semi-)automatic content analysis of stances and frames in media texts. DGPuK 2024. Erfurt, Germany (03/2024). [Abstract](https://www.conftool.pro/dgpuk2024/index.php/Rieger-Exploring_the_potential_of_large_language_models-293.pdf?page=downloadPaper&filename=Rieger-Exploring_the_potential_of_large_language_models-293.pdf&form_id=293).
 * Few-shot learning for automated content analysis (FLACA) in the German media debate on arms deliveries to Ukraine. Digital Total. Hamburg, Germany (10/2023). [Poster](https://jonasrieger.github.io/assets/poster_flaca.pdf).
 * Debunking Disinformation with GADMO: A Topic Modeling Analysis of a Comprehensive Corpus of German-language Fact-Checks. DiTox'23 Workshop @LDK 2023. Vienna, Austria (09/2023).
