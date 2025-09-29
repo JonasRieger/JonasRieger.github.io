@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Participation in the lecture series "Klima: Wandel, Werte, Wissenschaft""
+title:  "Participation in the lecture series \"Klima: Wandel, Werte, Wissenschaft\""
 date:   2025-09-29
 ---
 
