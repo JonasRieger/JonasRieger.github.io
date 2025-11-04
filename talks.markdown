@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 Invited talks
+* Narrative(s of) transition - Monitoring the German "Energiewende" across media channels. Research Colloquium at Universidad Católica del Norte, UCN. Antofagasta, Chile (11/2025).
 * Detecting narration changes in economics utilizing continuous topic modeling and (large) language models. Research Colloquium of the Faculty of Business Studies and Economics, JLU. Gießen, Germany (01/2025).
 * Monitoring (social) media narratives combining retrospective few-shot classification with continuous topic modeling. CMStatistics 2024. London, England (12/2024).
 * PETapter: A masked-language-modeling classification head for modular fine-tuning of (large) language models. CompStat 2024. Gießen, Germany (08/2024).
