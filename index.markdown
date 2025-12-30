@@ -18,9 +18,6 @@ Current projects
 * [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)
 * Member of [DoCMA](https://docma.tu-dortmund.de/)
 
-Former projects
-* [FLACA](https://www.wiso.uni-hamburg.de/flaca) (BMBF)
-
 Interested in
 * updating topic models time-consistently
 * evaluation metrics for topic models
