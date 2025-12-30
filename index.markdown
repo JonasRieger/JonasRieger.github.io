@@ -13,12 +13,12 @@ layout: home
 Current projects
 * [Diskurs Energiewende](https://jonasrieger.github.io/2024/09/03/bmwk.html) (BMWK)
 * [NEAR](https://narrative-economics.org/) (MERCUR)
+* [GADMO](https://gadmo.eu/) (EU)
 * Trustworthy Performance Evaluation of Large Language Models (RC Trust)
 * [The Era of ChatGPT](https://jonasrieger.github.io/2023/06/29/academy.html) (TU Dortmund Young Academy)
 * Member of [DoCMA](https://docma.tu-dortmund.de/)
 
-Contributing to
-* [GADMO](https://gadmo.eu/) (EU)
+Former projects
 * [FLACA](https://www.wiso.uni-hamburg.de/flaca) (BMBF)
 
 Interested in
