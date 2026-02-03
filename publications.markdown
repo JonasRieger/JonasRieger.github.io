@@ -32,6 +32,7 @@ Recent submissions
 * Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks. [Working Paper](https://doi.org/10.4419/96973191).
 
 Working paper
+* Kolli, I., Lange, K.-R., Rieger, J. und Jentsch, C. (2026). Word-Centered Semantic Graphs for Interpretable Diachronic Sense Tracking. arXiv. [DOI](https://doi.org/10.48550/arXiv.2601.22410).
 * Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](https://doi.org/10.4419/96973128).
 
 Non-peer-reviewed publications
