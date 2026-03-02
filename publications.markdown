@@ -5,6 +5,8 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H. (2026). Beyond fact-checking: AI-supported quality assessment in journalism. Accepted for Studies in Communication and Media (to appear in issue 3/26, i.e., October 2026).
+* Rieger, J., Muñoz, F., Grönberg, L., Lange, K.-R., Ojeda-Pereira, I., Briceño, D., Nass, C., Stahl, C., Cassola, J., Rojas-Córdova, C., Keith-Norambuena, B., Lufin, M., Campos-Medina, F., Herrera-León, S. (2026). Following socio-environmental conflict narratives about energy transition in Chile: A spatio-temporal analysis using dynamic topic modeling. Accepted for Text2Story'26 Workshop. [GitHub](https://anonymous.4open.science/r/t2s2026-2E8E).
 * Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Proceedings of the 21st KONVENS Conference, 333–348. [Link](https://aclanthology.org/2025.konvens-1.29/). [GitHub](https://github.com/JonasRieger/petapter).
 * Rieger, J., Grönberg, L., Loschke, C., Braungardt, S. (2025). Monitoring narratives about the energy transition in Germany: Social (in)justice in the energy transition - from the digital debate to the living world. Proceedings of the Text2Story'25 Workshop. CEUR-WS 3964, 201-214. [Link](https://ceur-ws.org/Vol-3964/). [GitHub](https://github.com/LarsG321/Dissemination-Monitoring-narratives-about-the-energy-transition-in-Germany).
 * Müller, H., Blagov, B., Schmidt, T., Rieger, J., Jentsch, C. (2025). The macroeconomic impact of asymmetric uncertainty shocks. The Journal of Economic Asymmetries 31(e00410). [DOI](https://doi.org/10.1016/j.jeca.2025.e00410).
@@ -28,11 +30,10 @@ Peer-reviewed publications
 * von Nordheim, G. and Rieger, J. (2020). Distorted by Populism – A computational analysis of German parliamentarians’ linking practices on Twitter [Im Zerrspiegel des Populismus – Eine computergestützte Analyse der Verlinkungspraxis von Bundestagsabgeordneten auf Twitter]. Publizistik 65, 403-424. [DOI](https://doi.org/10.1007/s11616-020-00591-7). [GitHub](https://github.com/JonasRieger/zerrspiegel). [EJO](https://de.ejo-online.eu/digitales/die-kleine-Welt-des-Populismus).
 
 Recent submissions
-* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H.: Beyond Fact-Checking: AI-Supported Quality Assessment in Journalism [Beyond Fact-Checking: KI-gestützte Qualitätsbewertung im Journalismus].
-* Schmidt, T., Müller, H., Rieger, J., Schmidt, T., Jentsch, C.: Changing inflation perception and the propagation of news shocks. [Working Paper](https://doi.org/10.4419/96973191).
+* Kolli, I., Lange, K.-R., Rieger, J. und Jentsch, C. (2026). Word-Centered Semantic Graphs for Interpretable Diachronic Sense Tracking. arXiv. [DOI](https://doi.org/10.48550/arXiv.2601.22410).
+* Schmidt, T., Schmidt, T., Müller, H., Rieger, J., Jentsch, C.: Changing inflation perception and the propagation of news shocks. [Working Paper (outdated)](https://doi.org/10.4419/96973191).
 
 Working paper
-* Kolli, I., Lange, K.-R., Rieger, J. und Jentsch, C. (2026). Word-Centered Semantic Graphs for Interpretable Diachronic Sense Tracking. arXiv. [DOI](https://doi.org/10.48550/arXiv.2601.22410).
 * Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](https://doi.org/10.4419/96973128).
 
 Non-peer-reviewed publications
