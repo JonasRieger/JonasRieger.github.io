@@ -13,6 +13,8 @@ Invited talks
 * Keep rollin'! The abilities for monitoring growing corpora using RollingLDA. ZPID Lecture Series. Trier, Germany (12/2022). [Recording](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=03addb74-2f86-4ed0-b877-af9c00a2959d).
 
 Contributions to conferences and workshops
+* Following socio-environmental conflict narratives about energy transition in Chile: A spatio-temporal analysis using dynamic topic modeling. Text2Story'26 Workshop @ECIR 2026. Delft, The Netherlands (03/2026). [Poster](https://jonasrieger.github.io/assets/poster_t2s2026.pdf).
+* Von Worten zum Monitoring: NLP-Tools für die automatische Textanalyse und Visualisierung gesellschaftlicher Diskurse zur Energiewende. BEWEGT 2026. Berlin, Germany (03/2026).
 * PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. KONVENS 2025. Hildesheim, Germany (09/2025). [Poster](https://jonasrieger.github.io/assets/poster_petapter.pdf).
 * Classifying the needle in the haystack? Problemstellungen beim Einsatz von Argument-Mining für kommunikationswissenschaftliche Fragestellungen am Beispiel der Waffenlieferungsdebatte. DigiKomm & Methoden 2024, Hamburg, Germany (09/2024).
 * Exploring the potential of large language models (such as GPT-4) for (semi-)automatic content analysis of stances and frames in media texts. DGPuK 2024. Erfurt, Germany (03/2024).
