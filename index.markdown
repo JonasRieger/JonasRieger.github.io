@@ -26,3 +26,4 @@ Interested in
 * argument mining in news and social media discourses
 * characteristics of disinformation and its dissemination
 * narrative and event detection in text
+* annotator disagreement
