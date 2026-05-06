@@ -5,8 +5,9 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
+* Schmidt, T., Schmidt, T., Müller, H., Rieger, J., Jentsch, C. (2026). Changing inflation perception and the propagation of news shocks. Accepted for Empirical Economics.
 * Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H. (2026). Beyond fact-checking: AI-supported quality assessment in journalism. Accepted for Studies in Communication and Media (to appear in issue 3/26, i.e., October 2026).
-* Rieger, J., Muñoz, F., Grönberg, L., Lange, K.-R., Ojeda-Pereira, I., Briceño, D., Nass, C., Stahl, C., Cassola, J., Rojas-Córdova, C., Keith-Norambuena, B., Lufin, M., Campos-Medina, F., Herrera-León, S. (2026). Following socio-environmental conflict narratives about energy transition in Chile: A spatio-temporal analysis using dynamic topic modeling. Accepted for Text2Story'26 Workshop. [GitHub](https://github.com/JonasRieger/t2s2026).
+* Rieger, J., Muñoz, F., Grönberg, L., Lange, K.-R., Ojeda-Pereira, I., Briceño, D., Nass, C., Stahl, C., Cassola, J., Rojas-Córdova, C., Keith-Norambuena, B., Lufin, M., Campos-Medina, F., Herrera-León, S. (2026). Following socio-environmental conflict narratives about energy transition in Chile: A spatio-temporal analysis using dynamic topic modeling. Proceedings of the Text2Story'26 Workshop. CEUR-WS 4202. [Link](https://ceur-ws.org/Vol-4202/). [GitHub](https://github.com/JonasRieger/t2s2026).
 * Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Proceedings of the 21st KONVENS Conference, 333–348. [Link](https://aclanthology.org/2025.konvens-1.29/). [GitHub](https://github.com/JonasRieger/petapter).
 * Rieger, J., Grönberg, L., Loschke, C., Braungardt, S. (2025). Monitoring narratives about the energy transition in Germany: Social (in)justice in the energy transition - from the digital debate to the living world. Proceedings of the Text2Story'25 Workshop. CEUR-WS 3964, 201-214. [Link](https://ceur-ws.org/Vol-3964/). [GitHub](https://github.com/LarsG321/Dissemination-Monitoring-narratives-about-the-energy-transition-in-Germany).
 * Müller, H., Blagov, B., Schmidt, T., Rieger, J., Jentsch, C. (2025). The macroeconomic impact of asymmetric uncertainty shocks. The Journal of Economic Asymmetries 31(e00410). [DOI](https://doi.org/10.1016/j.jeca.2025.e00410).
@@ -31,7 +32,6 @@ Peer-reviewed publications
 
 Recent submissions
 * Kolli, I., Lange, K.-R., Rieger, J. und Jentsch, C. (2026). Word-Centered Semantic Graphs for Interpretable Diachronic Sense Tracking. arXiv. [DOI](https://doi.org/10.48550/arXiv.2601.22410).
-* Schmidt, T., Schmidt, T., Müller, H., Rieger, J., Jentsch, C.: Changing inflation perception and the propagation of news shocks. [Working Paper (outdated)](https://doi.org/10.4419/96973191).
 
 Working paper
 * Shrub, Y., Rieger, J., Müller, H. and Jentsch, C. (2022). Text data rule - don't they? A study on the (additional) information of Handelsblatt data for nowcasting German GDP in comparison to established economic indicators. Ruhr Economic Papers #964. [DOI](https://doi.org/10.4419/96973128).
