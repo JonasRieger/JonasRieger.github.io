@@ -28,7 +28,7 @@ Procedure:
 * The student submits a request to the examination office and receives a registration form as confirmation that all requirements have been met (please refrain from contacting me until you have received this form).
 * Initial contact following the template above
 * Topic selection/definition (should typically take only a few weeks); this can be done (depending on needs and topic) entirely via email or through one or two brief meetings (max. 30 min each).
-* The student prepares an overview of the objectives and planned methods according to ADEMP (see paper, Section 3 with all subsections). All ADEMP elements must be specified and submitted to me once before registration.
+* The student prepares an overview of the objectives and planned methods according to ADEMP (see [paper](https://doi.org/10.1002/sim.8086), Section 3 with all subsections). All ADEMP elements must be specified and submitted to me once before registration.
 * Register the topic with the examination office using the registration form (the student sends the PDF to the examination office)
 * I will not force anyone to meet with me. Once registered, the student is responsible for successfully completing and submitting the thesis. This also includes asking me for meetings as needed (please indicate preferred dates directly and specify whether you prefer to meet digitally or in person at my office).
 * After approximately 5 months (or approximately 1 month before the submission deadline), a presentation of all results achieved up to that point is mandatory. The presentation itself should not exceed 30 minutes. The meeting is scheduled for 45 minutes. Please set aside 60 minutes in case more discussion is needed.
