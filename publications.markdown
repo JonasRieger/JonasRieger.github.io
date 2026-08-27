@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 
 Peer-reviewed publications
-* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H. (2026). Beyond fact-checking: AI-supported quality assessment in journalism. Accepted for Studies in Communication and Media (to appear in issue 3/26, i.e., October 2026).
+* Schmidt, T., Rieger, J., Rahnenführer, J., Viciano, A., Wormer, H. (2026). Beyond fact-checking: AI-supported quality assessment in journalism. Studies in Communication and Media 15, 332-358. [DOI](https://doi.org/10.5771/2192-4007-2026-3-012).
 * Schmidt, T., Schmidt, T., Müller, H., Rieger, J., Jentsch, C. (2026). Changing inflation perception and the propagation of news shocks. Empirical Economics 71(30). [DOI](https://doi.org/10.1007/s00181-026-02964-9).
 * Rieger, J., Muñoz, F., Grönberg, L., Lange, K.-R., Ojeda-Pereira, I., Briceño, D., Nass, C., Stahl, C., Cassola, J., Rojas-Córdova, C., Keith-Norambuena, B., Lufin, M., Campos-Medina, F., Herrera-León, S. (2026). Following socio-environmental conflict narratives about energy transition in Chile: A spatio-temporal analysis using dynamic topic modeling. Proceedings of the Text2Story'26 Workshop. CEUR-WS 4202. [Link](https://ceur-ws.org/Vol-4202/). [GitHub](https://github.com/JonasRieger/t2s2026).
 * Rieger, J., Ruckdeschel, M., Wiedemann, G. (2025). PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning. Proceedings of the 21st KONVENS Conference, 333–348. [Link](https://aclanthology.org/2025.konvens-1.29/). [GitHub](https://github.com/JonasRieger/petapter).
