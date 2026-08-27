@@ -41,7 +41,9 @@ Non-peer-reviewed publications
 * Rieger, J. and von Nordheim, G. (2021). corona100d – German-language Twitter dataset of the first 100 days after Chancellor Merkel addressed the coronavirus outbreak on TV. DoCMA Working Paper #4. [DOI](http://dx.doi.org/10.17877/DE290R-21911). [GitHub](https://github.com/JonasRieger/corona100d).
 
 The inflation perception indicator
-* Müller, H., Schmidt, T., Rieger, J., Hornig, N. and Hufnagel, L.M. (2023). The Inflation Attention Cycle: Updating the Inflation Perception Indicator (IPI) up to February 2023 - a Research Note. DoCMA Working Paper #13. [DOI](http://doi.org/10.17877/DE290R-23141). [GitHub](https://github.com/JonasRieger/ipi).
+* [GitHub](https://github.com/JonasRieger/ipi)
+* Müller, H., Schmidt, T., Schmidt, T., Rieger, J., Jentsch, C. (2026). When the Whip Comes Down: Updating Our Indicators Capturing Inflation and Uncertainty Perception - a Research Note. DoCMA Working Paper #15. [DOI](http://dx.doi.org/10.17877/DE290R-26916).
+* Müller, H., Schmidt, T., Rieger, J., Hornig, N. and Hufnagel, L.M. (2023). The Inflation Attention Cycle: Updating the Inflation Perception Indicator (IPI) up to February 2023 - a Research Note. DoCMA Working Paper #13. [DOI](http://doi.org/10.17877/DE290R-23141).
 * Müller, H., Rieger, J., Schmidt, T. and Hornig, N. (2022). An Increasing Sense of Urgency: The Inflation Perception Indicator (IPI) to 30 June 2022 - a Research Note. DoCMA Working Paper #12. [DOI](http://doi.org/10.17877/DE290R-22875).
    * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
 * Müller, H., Rieger, J., Schmidt., T. and Hornig, N. (2022). Pressure is high - and rising. The Inflation Perception Indicator (IPI) to 30 April 2022 - a Research Note Analysis. DoCMA Working Paper #10. [DOI](https://doi.org/10.17877/DE290R-22769).
@@ -50,6 +52,8 @@ The inflation perception indicator
     * The I-Index: The New Measurement of Inflation [Der I-Index: Die neue Vermessung der Inflation]. Handelsblatt (03/10/2022). [Link](https://www.handelsblatt.com/28146862.html).
 
 The uncertainty perception indicator
+* [GitHub](https://github.com/JonasRieger/upi)
+* Müller, H., Schmidt, T., Schmidt, T., Rieger, J., Jentsch, C. (2026). When the Whip Comes Down: Updating Our Indicators Capturing Inflation and Uncertainty Perception - a Research Note. DoCMA Working Paper #15. [DOI](http://dx.doi.org/10.17877/DE290R-26916).
 * Müller, H., Rieger, J. and Hornig, N. (2022). Vladimir vs. the Virus - a Tale of two Shocks. An Update on our Uncertainty Perception Indicator (UPI) to April 2022 - a Research Note. DoCMA Working Paper #11. [DOI](http://dx.doi.org/10.17877/DE290R-22780). [GitHub](https://github.com/JonasRieger/upi).
 * Müller, H., Rieger, J. and Hornig, N. (2021). Riders on the Storm. The Uncertainty Perception Indicator (UPI) in Q1 2021. DoCMA Working Paper #7. [DOI](https://doi.org/10.17877/DE290R-22177).
 * Müller, H., Rieger, J. and Hornig, N. (2021). We’re rolling. Our Uncertainty Perception Indicator (UPI) in Q4 2020: introducing RollingLDA, a New Method for the Measurement of Evolving Economic NarrativesOur Uncertainty Perception Indicator (UPI) in Q4 2020: introducing RollingLDA, a New Method for the Measurement of Evolving Economic Narratives. DoCMA Working Paper #6. [DOI](http://dx.doi.org/10.17877/DE290R-21974).
