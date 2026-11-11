@@ -43,6 +43,7 @@ Non-peer-reviewed publications
 The inflation perception indicator
 * [GitHub](https://github.com/JonasRieger/ipi)
 * Müller, H., Schmidt, T., Schmidt, T., Rieger, J., Jentsch, C. (2026). When the Whip Comes Down: Updating Our Indicators Capturing Inflation and Uncertainty Perception - a Research Note. DoCMA Working Paper #15. [DOI](http://dx.doi.org/10.17877/DE290R-26916).
+    * I-Index Reflects Germans' Rampant Fears of Inflation [I-Index zeigt grassierende Inflationsangst der Deutschen]. Handelsblatt (10/09/2026). [Link](https://www.handelsblatt.com/politik/konjunktur/teuerung-i-index-zeigt-grassierende-inflationsangst-der-deutschen/100253332.html).
 * Müller, H., Schmidt, T., Rieger, J., Hornig, N. and Hufnagel, L.M. (2023). The Inflation Attention Cycle: Updating the Inflation Perception Indicator (IPI) up to February 2023 - a Research Note. DoCMA Working Paper #13. [DOI](http://doi.org/10.17877/DE290R-23141).
 * Müller, H., Rieger, J., Schmidt, T. and Hornig, N. (2022). An Increasing Sense of Urgency: The Inflation Perception Indicator (IPI) to 30 June 2022 - a Research Note. DoCMA Working Paper #12. [DOI](http://doi.org/10.17877/DE290R-22875).
    * Galloping Inflation: Early Warning System Anticipates Significant Price Increase [Galoppierende Inflation: Frühwarnsystem rechnet mit deutlicher Preissteigerung]. Handelsblatt (07/25/2022). [Link](https://www.handelsblatt.com/28543406.html).
